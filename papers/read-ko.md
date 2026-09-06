@@ -5,7 +5,7 @@
 
 신도윤 · 가천대학교 산업공학과 · 개인 독립연구 · 2026
 
-[PDF 내려받기](risk-aware-predictive-maintenance-ko.pdf) · [쉬운 해설](../docs/EASY_GUIDE_KO.md) · [메인으로 돌아가기](../README.md)
+[원본 PDF 내려받기](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-ko.pdf) · [쉬운 해설](../docs/EASY_GUIDE_KO.md) · [메인으로 돌아가기](../README.md)
 
 아래 이미지는 휴대전화에서도 GitHub 앱과 브라우저로 읽을 수 있도록 PDF를 페이지별로 변환한 미리보기다. 인용·인쇄에는 위 PDF를 사용한다.
 
@@ -61,4 +61,4 @@
 
 ![국문 논문 13쪽](../assets/paper-preview/ko/page-13.jpg)
 
-[맨 위로](#국문-논문--모바일-리더) · [PDF 내려받기](risk-aware-predictive-maintenance-ko.pdf)
+[맨 위로](#국문-논문--모바일-리더) · [원본 PDF 내려받기](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-ko.pdf)

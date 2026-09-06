@@ -5,7 +5,7 @@
 **신도윤 · 가천대학교 산업공학과**  
 Independent undergraduate research manuscript · 2026
 
-[국문 논문 바로 읽기](papers/read-ko.md) · [English paper](papers/read-en.md) · [국문 PDF](papers/risk-aware-predictive-maintenance-ko.pdf) · [English PDF](papers/risk-aware-predictive-maintenance-en.pdf) · [분석 코드 저장소](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance)
+[국문 논문 바로 읽기](papers/read-ko.md) · [English paper](papers/read-en.md) · [국문 PDF 다운로드](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-ko.pdf) · [English PDF download](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-en.pdf) · [분석 코드 저장소](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance)
 
 ![생산설비의 상태 감시, 고장위험 예측, 운전 의사결정을 연결한 연구 개념 이미지](assets/figures/research-hero.jpg)
 

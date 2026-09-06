@@ -5,7 +5,7 @@ From Statistical Process Control and Nonlinear Failure Prediction to Constrained
 
 Doyun Shin · Department of Industrial Engineering, Gachon University · 2026
 
-[Download PDF](risk-aware-predictive-maintenance-en.pdf) · [English overview](../README_EN.md) · [한국어 해설](../docs/EASY_GUIDE_KO.md)
+[Download original PDF](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-en.pdf) · [English overview](../README_EN.md) · [한국어 해설](../docs/EASY_GUIDE_KO.md)
 
 The images below are page previews for reliable reading in the GitHub mobile app and mobile browsers. Use the PDF above for citation and printing.
 
@@ -69,4 +69,4 @@ The images below are page previews for reliable reading in the GitHub mobile app
 
 ![English paper page 15](../assets/paper-preview/en/page-15.jpg)
 
-[Back to top](#english-paper--mobile-reader) · [Download PDF](risk-aware-predictive-maintenance-en.pdf)
+[Back to top](#english-paper--mobile-reader) · [Download original PDF](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-en.pdf)

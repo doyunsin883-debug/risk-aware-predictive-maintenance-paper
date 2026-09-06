@@ -5,7 +5,7 @@
 **Doyun Shin · Department of Industrial Engineering, Gachon University**  
 Independent undergraduate research manuscript · 2026
 
-[Read the English paper](papers/read-en.md) · [한국어 논문](papers/read-ko.md) · [Download English PDF](papers/risk-aware-predictive-maintenance-en.pdf) · [Companion code](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance) · [한국어 README](README.md)
+[Read the English paper](papers/read-en.md) · [한국어 논문](papers/read-ko.md) · [Download English PDF](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/releases/download/v1.0.0/risk-aware-predictive-maintenance-en.pdf) · [Companion code](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance) · [한국어 README](README.md)
 
 ![Conceptual view of process monitoring, failure-risk prediction, and constrained operating decisions](assets/figures/research-hero.jpg)
 
