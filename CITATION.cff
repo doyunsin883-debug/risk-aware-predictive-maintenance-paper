@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this manuscript, please cite it as below."
+title: "A Risk-Aware Predictive Maintenance Decision Framework: From Statistical Process Control and Nonlinear Failure Prediction to Constrained Operating Decisions"
+type: article
+authors:
+  - family-names: "Shin"
+    given-names: "Doyun"
+    affiliation: "Department of Industrial Engineering, Gachon University"
+repository: "https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper"
+repository-code: "https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance"
+url: "https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper"
+version: 1.0.0
+date-released: 2026-09-06
+keywords:
+  - predictive maintenance
+  - statistical process control
+  - gradient boosting
+  - constrained optimization
+  - industrial engineering
+abstract: >-
+  This independent study presents a staged predictive-maintenance decision
+  framework that links I-MR process monitoring, imbalanced failure prediction,
+  validation-based threshold selection, and constrained operating-point search
+  using the AI4I 2020 dataset.
